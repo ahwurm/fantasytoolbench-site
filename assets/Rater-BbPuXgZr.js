@@ -1,0 +1,1 @@
+import{j as t}from"./index-BnuqF1dz.js";function s(){return t.jsxs("div",{className:"mx-auto max-w-3xl px-4 py-24 text-center",children:[t.jsx("h1",{className:"text-2xl font-semibold tracking-tight",children:"Rate my draft"}),t.jsx("p",{className:"mt-3 font-mono text-sm text-accent",children:"coming soon"})]})}export{s as default};
